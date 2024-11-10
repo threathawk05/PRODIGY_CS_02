@@ -132,4 +132,4 @@ Key: 123
 - Encrypted Image
   ![encrypted_image](https://github.com/user-attachments/assets/388db305-21c1-4a4b-a58f-b7003dc697fe)
 
-- 
+- Decrypted Image 
