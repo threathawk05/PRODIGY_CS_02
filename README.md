@@ -57,14 +57,13 @@ cd image-encryption-tool
   python image_encrpyt.py
 
 ```
-
  This will generate two new files:
 
 - encrypted_image.png: The encrypted version of the original image.
 - decrypted_image.png: The decrypted image, which should look like the original.
 
 4. Code Example
-Here’s an example snippet of how to use the tool:
+- Here’s an example snippet of how to use the tool:
 
 ```bash
   from PIL import Image
