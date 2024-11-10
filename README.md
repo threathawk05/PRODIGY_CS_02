@@ -125,3 +125,11 @@ Key: 123
 
 - This tool is meant for educational purposes and is not secure for sensitive data encryption.
 - For high-resolution images, encryption and decryption may take longer.
+
+
+## Encrypted/decrypted Images
+
+- Encrypted Image
+  ![encrypted_image](https://github.com/user-attachments/assets/388db305-21c1-4a4b-a58f-b7003dc697fe)
+
+- 
