@@ -10,6 +10,8 @@ A simple image encryption and decryption tool that uses pixel manipulation by ap
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Example](#example)
+- [Notes](#notes)
+- [Encrypted/decrypted Images](#encrypted-decrypted-images)
 
 ## Overview
 
@@ -132,4 +134,6 @@ Key: 123
 - Encrypted Image
   ![encrypted_image](https://github.com/user-attachments/assets/388db305-21c1-4a4b-a58f-b7003dc697fe)
 
-- Decrypted Image 
+- Decrypted Image
+  ![decrypted_image](https://github.com/user-attachments/assets/43bf98e5-edde-4558-b50d-b1de65a8d307)
+ 
